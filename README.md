@@ -1,1 +1,1 @@
-# Resnet18-video-classification
+# 3DCNN-video-classification
